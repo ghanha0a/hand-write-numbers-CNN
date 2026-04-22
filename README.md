@@ -1,2 +1,2 @@
 # hand-write-numbers-CNN
-hand write numbers CNآ
+hand write numbers CNN
